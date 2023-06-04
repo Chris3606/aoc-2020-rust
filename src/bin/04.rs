@@ -1,6 +1,4 @@
-use std::{collections::HashMap, str::FromStr};
-
-use advent_of_code::helpers;
+use std::collections::HashMap;
 
 type Passport = HashMap<String, String>;
 
